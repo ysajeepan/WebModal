@@ -1,8 +1,6 @@
 <?php
 /* 
- * 3:30 PM 10/7/2014
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ * Web Modal .html
  */
 
 class HTMLModal
